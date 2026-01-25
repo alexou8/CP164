@@ -1,0 +1,67 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Zi Feng (Alex) Ou
+ID:      169025748
+Email:   ouxx5748@mylaurier.ca
+Version: 2024-11-23
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Using array-based list Hash_Set
+
+Total Comparisons: 1,546,598
+Word with maximum comparisons 'the': 27,331
+
+Using array-based list Hash_Set
+
+Total Comparisons: 1,185,880
+Word with maximum comparisons 'the': 15,095
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Using array-based Sorted List Hash_Set
+
+Total Comparisons: 2,425,234
+Word with maximum comparisons 'struggles': 38,722
+
+Using array-based Sorted List Hash_Set
+
+Total Comparisons: 1,938,670
+Word with maximum comparisons 'spoken': 17,396
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Using linked BST Hash_Set
+
+Total Comparisons: 1,818,655
+Word with maximum comparisons 'the': 81,298
+
+Using linked BST Hash_Set
+
+Total Comparisons: 1,490,591
+Word with maximum comparisons 'the': 44,108
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Nodes with no children: 
+1
+
+Nodes with one child: 
+7
+
+Nodes with two children: 
+0
+
+BST contains 8: 
+True
+
+Parent Node for 8: 
+7
+
+Parent Node for 8 (recursive): 
+7
+-------------------------------------------------------
