@@ -1,0 +1,79 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Zi Feng (Alex) Ou
+ID:      169025748
+Email:   ouxx5748@mylaurier.ca
+Version: 2024-10-24
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Name:       Lasagna
+Origin:     Italian
+Vegetarian: False
+Calories:   135
+
+Name:       Butter Chicken
+Origin:     Indian
+Vegetarian: False
+Calories:   490
+
+Name:       Moo Goo Guy Pan
+Origin:     Chinese
+Vegetarian: False
+Calories:   272
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+1
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+1
+
+Name:       Vegetables with Cashew Nuts
+Origin:     Chinese
+Vegetarian: True
+Calories:   143
+
+Name:       BBQ Pork
+Origin:     Chinese
+Vegetarian: False
+Calories:   920
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Name:       Butter Chicken
+Origin:     Indian
+Vegetarian: False
+Calories:   490
+1
+True
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Name:       Lasagna
+Origin:     Italian
+Vegetarian: False
+Calories:   135
+
+Name:       Chirashi Don
+Origin:     Japanese
+Vegetarian: False
+Calories:   600
+-------------------------------------------------------
+t06
+-------------------------------------------------------
+Name:       Chirashi Don
+Origin:     Japanese
+Vegetarian: False
+Calories:   600
+
+Name:       Shark Fin Soup
+Origin:     Chinese
+Vegetarian: False
+Calories:   46
+-------------------------------------------------------
