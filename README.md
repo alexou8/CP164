@@ -15,3 +15,7 @@ This repo contains implementations, labs, and assignments focused on core data s
 - Sorting basics (and stability, when relevant)
 - Searching and traversal concepts
 - Intro to abstract data types (ADTs) and interfaces
+
+## Academic Integrity
+
+This repository is shared for learning and portfolio purposes only. Please do not submit this work as your own.
