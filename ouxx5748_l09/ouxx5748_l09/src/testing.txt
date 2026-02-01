@@ -1,0 +1,130 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Zi Feng (Alex) Ou
+ID:      169025748
+Email:   ouxx5748@mylaurier.ca
+Version: 2024-11-08
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Name: Lasagna
+Origin (Number)
+ 0 Canadian
+ 1 Chinese
+ 2 Indian
+ 3 Ethiopian
+ 4 Mexican
+ 5 Greek
+ 6 Japanese
+ 7 Italian
+ 8 American
+ 9 Scottish
+10 New Zealand
+11 English
+: 7
+Vegetarian (Y/N): N
+Calories: 695
+
+Name: Butter Chicken
+Origin (Number)
+ 0 Canadian
+ 1 Chinese
+ 2 Indian
+ 3 Ethiopian
+ 4 Mexican
+ 5 Greek
+ 6 Japanese
+ 7 Italian
+ 8 American
+ 9 Scottish
+10 New Zealand
+11 English
+: 2
+Vegetarian (Y/N): N
+Calories: 1355
+
+Hashes
+Hash     Slot Key
+-------- ---- --------------------
+     695    3 Lasagna, 7
+    1355    3 Butter Chicken, 2
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Printing hset: 
+20
+10
+30
+
+Removed Value: 
+20
+
+Printing hset: 
+10
+30
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+7 slots
+
+========================================
+Slot 0
+
+Name:       Spring Rolls
+Origin:     Chinese
+Vegetarian: True
+Calories:   200
+
+Name:       Chicken Kabob
+Origin:     Indian
+Vegetarian: False
+Calories:   167
+
+Slot 1
+
+Slot 2
+
+Slot 3
+
+Slot 4
+
+Slot 5
+
+Slot 6
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Inserting: 
+Rehash:
+3 Slots
+----------------------------------------
+Slot 0
+
+----------------------------------------
+Slot 1
+
+Name:       Spring Rolls
+Origin:     Chinese
+Vegetarian: True
+Calories:   200
+Name:       Chicken Kabob
+Origin:     Indian
+Vegetarian: False
+Calories:   167
+Name:       Pasta
+Origin:     Italian
+Vegetarian: True
+Calories:   350
+----------------------------------------
+Slot 2
+
+Name:       Sushi
+Origin:     Japanese
+Vegetarian: False
+Calories:   250
+----------------------------------------
+-------------------------------------------------------
